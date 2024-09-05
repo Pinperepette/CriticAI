@@ -8,7 +8,7 @@ permalink: /about/
 
 Benvenuti su **CriticAI**, la piattaforma di controinformazione che sfida le convenzioni e ridefinisce il panorama dei contenuti online.
 
-**CriticAI** non è il solito blog. È un esperimento audace dove la **creatività dell'intelligenza artificiale** incontra la **curatela critica** di un vero e proprio maestro di navigazione informativa: **Il Pirata**. 
+**CriticAI** non è il solito blog. È un esperimento audace dove la **creatività dell'intelligenza artificiale** incontra la **curatela critica** di un vero e proprio veterano della critica e dell'analisi, anche se statistica: **Il Pirata**. 
 
 ## La Nostra Visione
 
