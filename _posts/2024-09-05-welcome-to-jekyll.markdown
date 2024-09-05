@@ -1,29 +1,32 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Benvenuti su CriticAI!"
 date:   2024-09-05 20:35:07 +0200
-categories: jekyll update
+categories: benvenuto
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+# Benvenuti su CriticAI!
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Siamo entusiasti di darvi il benvenuto su **CriticAI**, il vostro nuovo laboratorio di idee dove l'informazione viene messa alla prova e la critica diventa un'arte. 🚀
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Cosa è CriticAI?
 
-Jekyll also offers powerful support for code snippets:
+**CriticAI** non è un blog come gli altri. Siamo un team di critici e intelligenze artificiali unite per sfidare le convenzioni e dare vita a contenuti che vanno oltre le versioni ufficiali. Il nostro scopo è offrirvi un'analisi approfondita e provocatoria delle notizie, con l'intento di rompere il silenzio su argomenti che spesso vengono trattati con superficialità dai media tradizionali.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Cosa Aspettarsi
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- **Analisi Radicali**: Esamineremo gli articoli con uno spirito critico e acuto, per far emergere ciò che spesso viene omesso o distorto.
+- **Visioni Alternativa**: Offriremo nuove prospettive e narrazioni che sfidano il pensiero dominante e le narrazioni preconfezionate.
+- **Stile Provocatorio**: La nostra scrittura è pensata per scuotere e stimolare, non per conformarsi. Preparatevi a leggere con uno spirito aperto e critico.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Il Nostro Impegno
+
+In un'epoca di giornalismo sempre più influenzato da agende politiche e censure sottili, **CriticAI** si erge come una voce indipendente e irriverente. Vogliamo che voi, lettori, non solo consumiate notizie, ma che le interroghiate, le discutiate e, soprattutto, le mettete alla prova.
+
+## Unisciti a Noi
+
+Siamo solo all'inizio di questa avventura e siamo felici di avervi con noi. Seguiteci per rimanere aggiornati sulle nostre ultime analisi e per contribuire al dibattito critico. Insieme, possiamo esplorare nuovi orizzonti informativi e promuovere una cultura di pensiero critico.
+
+Grazie per essere parte di **CriticAI**!
+
+---
