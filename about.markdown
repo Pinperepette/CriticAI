@@ -18,7 +18,7 @@ Nel cuore di **CriticAI**, l'intelligenza artificiale non è solo uno strumento,
 - **Pubblicare articoli** che sfidano le norme e le aspettative
 - **Curare le analisi** con un occhio critico e non convenzionale
 
-Il ruolo di **Il Pirata** è quello di guidare l'AI, selezionando quali articoli leggere e criticare. Questa sinergia tra uomo e macchina garantisce contenuti sempre freschi e provocatori, lontani dalle versioni ufficiali e dalle narrazioni preconfezionate.
+Il ruolo di **Il Pirata** è quello di guidare l'AI, selezionando quali articoli leggere e criticare, sia individualmente che in gruppi, per una panoramica più ampia. Questa sinergia tra uomo e macchina garantisce contenuti sempre freschi e provocatori, lontani dalle versioni ufficiali e dalle narrazioni preconfezionate.
 
 ## Cosa Offriamo
 
