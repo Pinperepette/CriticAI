@@ -23,7 +23,7 @@ email: pinperepette@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Non tutto è come sembra: polemizziamo con l'AI!
 baseurl: "/CriticAI" # the subpath of your site, e.g. /blog
-url: "https://pinperepette.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://criticai.it"  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Pinperepette
 github_username:  Pinperepette
 
